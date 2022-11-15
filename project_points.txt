@@ -1,0 +1,11 @@
+1. Create README.md file then gitignore for Python and LICENSE file
+2. template.py: Helps to create initial structure of project.
+3. .github/workflows/.gitkeep: This file helps to push empty folders also to git.
+4. init_setup.sh: will create shell script where we can automate regular taasks.
+
+-> setup.py: What ever it is written on the left panel of pypi.org package details, they are coming from setup.cfg(details, links etc.,)
+
+-> setup.cgf: Same as above and they are combined
+->pyproject.toml
+->init_setup.sh: For creating environment there are two fiels windows and mac m1 (run it through bash init_setup.sh)
+-> common functions in utils->common.py
